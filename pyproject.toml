@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "onfrontiers"
-version = "0.0.3"
+version = "0.0.4"
 authors = [{ name = "Kyle Teague", email = "kteague@onfrontiers.com" }]
 description = "The official OnFrontiers Python API library"
 readme = "README.md"
@@ -16,6 +16,7 @@ classifiers = [
   "Programming Language :: Python :: 3.12",
   "Programming Language :: Python :: 3.13",
   "Operating System :: OS Independent",
+  "Typing :: Typed",
   "License :: OSI Approved :: MIT License",
   "Development Status :: 3 - Alpha",
   "Intended Audience :: Developers",
